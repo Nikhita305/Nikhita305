@@ -1,9 +1,19 @@
-<h1 align="center" style="font-family: 'Arial', sans-serif; color: #4CAF50;">Hi 👋, I'm <span style="color: #FF5733;">Nikhita Bhat</span></h1>
-<h3 align="center" style="font-family: 'Arial', sans-serif; color: #555;">A passionate software developer from India</h3>
+<h1 align="center" style="font-family: 'Arial', sans-serif; color: #4CAF50;">
+  Hi 👋, I'm <span style="color: #FF5733;">Nikhita Bhat</span>
+</h1>
 
-<p align="center" style="font-size: 18px; color: #666;">🌱 Currently learning <strong style="color: #FF5733;">Full Stack Java Development</strong></p>
+<h3 align="center" style="font-family: 'Arial', sans-serif; color: #555;">
+  A passionate software developer from India
+</h3>
 
-<p align="center" style="font-size: 18px; color: #666;">📫 How to reach me: <a href="mailto:nikhitabhat033@gmail.com" style="color: #FF5733;">nikhitabhat033@gmail.com</a></p>
+<p align="center" style="font-size: 18px; color: #666;">
+  🌱 Currently learning <strong style="color: #FF5733;">Full Stack Java Development</strong>
+</p>
+
+<p align="center" style="font-size: 18px; color: #666;">
+  📫 How to reach me: 
+  <a href="mailto:nikhitabhat033@gmail.com" style="color: #FF5733;">nikhitabhat033@gmail.com</a>
+</p>
 
 <h3 align="center" style="font-family: 'Arial', sans-serif; color: #333;">Connect with me:</h3>
 <p align="center">
@@ -44,7 +54,8 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
   </a>
- 
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhita305&show_icons=true&locale=en" alt="nikhita305" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhita305&theme=radical" alt="nikhita305" />
 </p>
