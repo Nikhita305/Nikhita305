@@ -1,51 +1,18 @@
-<h1 align="center" style="font-family: 'Arial', sans-serif; color: #4CAF50;">Hi 👋, I'm <span style="color: #FF5733;">Nikhita Bhat</span></h1>
-<h3 align="center" style="font-family: 'Arial', sans-serif; color: #555;">A passionate software developer from India</h3>
+# 💫 About Me:
+Hi 👋, I'm Nikhita Bhat<br>A passionate software developer from India<br>🌱 Currently learning Full Stack Java Development<br><br>📫 How to reach me: nikhitabhat033@gmail.com
 
-<p align="center" style="font-size: 18px; color: #666;">🌱 Currently learning <strong style="color: #FF5733;">Full Stack Java Development</strong></p>
 
-<p align="center" style="font-size: 18px; color: #666;">📫 How to reach me: <a href="mailto:nikhitabhat033@gmail.com" style="color: #FF5733;">nikhitabhat033@gmail.com</a></p>
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikhitabhat033@gmail.com) 
 
-<h3 align="center" style="font-family: 'Arial', sans-serif; color: #333;">Connect with me:</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/nikhita-bhat" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhita-bhat" height="40" width="40" />
-  </a>
-</p>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Nikhita305&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Nikhita305&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhita305&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h3 align="center" style="font-family: 'Arial', sans-serif; color: #333;">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40" />
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-  </a>
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-  </a>
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=Nikhita305&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhita305&show_icons=true&locale=en&theme=radical" alt="nikhita305" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
