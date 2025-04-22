@@ -47,9 +47,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhita305&show_icons=true&locale=en&theme=radical" alt="nikhita305" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhita305&theme=radical" alt="nikhita305" />
 </p>
